@@ -1,0 +1,16 @@
+   1. Computer networks by Andrews S tanenbaum
+   2. A guide to matlab by brian r hunt,lipsman,rosenbery
+   3. Digital Fundametals by Floyd
+   4.  Digital design by Morris Mano
+   5. Linear Systems and signals by B P Lathi
+   6. Probability and randomness by Veerarajan
+   7. Electronic Devices and circuit theory by Robert L Boylstead,Louis Naskelsky
+   8. Electronic Devices and circuits by G K Mittal
+   9. Linear intergrated systems by Roy Choudhury and Shail Jain
+  10. Op-amps and linear integrated circuits by Ramakanth A Gayakwad
+  11. Networks lines and fields by John D Ryder
+  12. Digital Signal Processing by NagurKani/Nagoor Kani.
+  13. Digital Signal Processing by Alan V Oppenhiem and Robert W Schafer
+  14. Communication System by Simon Haykins
+  15. Comunication System ,Analog Communication System, R.Singh and Sd Spare
+  16. also add the book by BP lathi in the above topic.
