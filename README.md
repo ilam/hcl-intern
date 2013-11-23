@@ -1,4 +1,2 @@
-hcl-intern
+HCL Infosystems Information Portal
 ==========
-
-HCL Intern - Information Portal
